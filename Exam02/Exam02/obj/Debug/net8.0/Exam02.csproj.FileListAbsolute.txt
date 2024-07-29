@@ -1,0 +1,15 @@
+C:\Users\Waleed\source\repos\Exam02\Exam02\bin\Debug\net8.0\Exam02.exe
+C:\Users\Waleed\source\repos\Exam02\Exam02\bin\Debug\net8.0\Exam02.deps.json
+C:\Users\Waleed\source\repos\Exam02\Exam02\bin\Debug\net8.0\Exam02.runtimeconfig.json
+C:\Users\Waleed\source\repos\Exam02\Exam02\bin\Debug\net8.0\Exam02.dll
+C:\Users\Waleed\source\repos\Exam02\Exam02\bin\Debug\net8.0\Exam02.pdb
+C:\Users\Waleed\source\repos\Exam02\Exam02\obj\Debug\net8.0\Exam02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Waleed\source\repos\Exam02\Exam02\obj\Debug\net8.0\Exam02.AssemblyInfoInputs.cache
+C:\Users\Waleed\source\repos\Exam02\Exam02\obj\Debug\net8.0\Exam02.AssemblyInfo.cs
+C:\Users\Waleed\source\repos\Exam02\Exam02\obj\Debug\net8.0\Exam02.csproj.CoreCompileInputs.cache
+C:\Users\Waleed\source\repos\Exam02\Exam02\obj\Debug\net8.0\Exam02.dll
+C:\Users\Waleed\source\repos\Exam02\Exam02\obj\Debug\net8.0\refint\Exam02.dll
+C:\Users\Waleed\source\repos\Exam02\Exam02\obj\Debug\net8.0\Exam02.pdb
+C:\Users\Waleed\source\repos\Exam02\Exam02\obj\Debug\net8.0\Exam02.genruntimeconfig.cache
+C:\Users\Waleed\source\repos\Exam02\Exam02\obj\Debug\net8.0\ref\Exam02.dll
+C:\Users\Waleed\source\repos\Exam02\Exam02\obj\Debug\net8.0\Exam02.sourcelink.json
